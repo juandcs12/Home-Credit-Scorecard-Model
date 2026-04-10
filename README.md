@@ -49,7 +49,7 @@ Business Recommendations
 - Use geographic and demographic segmentation to improve risk assessment
 - Consider asset ownership (e.g., car) as an additional supporting indicator
 
-🛠️ Tools & Technologies
+Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn)
 - Data Visualization (Matplotlib, Seaborn)
 - Google Colab
